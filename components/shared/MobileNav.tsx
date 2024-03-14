@@ -4,7 +4,7 @@ import {
     Sheet,
     SheetContent,
     SheetTrigger,
-} from "../ui/sheet"
+} from "../../components/ui/sheet"
 import Link from 'next/link'
 import Image from 'next/image'
 import logo from "../../public/assets/images/logo-text.svg"
